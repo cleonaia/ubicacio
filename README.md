@@ -1,2 +1,2 @@
-# practicas_FI_1
+# projecte 
 Treball de bash. Zhengli/Leo
